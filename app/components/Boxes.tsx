@@ -2,7 +2,7 @@ import React from 'react'
 
 const Boxes = () => {
   return (
-    <div>
+    <div className='bg-orange-500 p-10 h-100%'>
         <div  className='flex justify-center space-x-4 m-4'>
 
             {/* Box 1 */}
